@@ -1,4 +1,4 @@
-# Anotações da Aluna - Atualizações do Sistema  
+# Anotações da Aluna - Atualizações do Sistema  19\04\2025
 
 *"Oi prof! Seguem minhas anotações sobre as mudanças que implementei no sistema. Deixei tudo explicadinho com exemplos pra facilitar!"* ✨  
 
@@ -157,7 +157,6 @@ public function classes() {
 ---
 
 ### 7. ❓ Dúvidas que Ainda Tenho  
-
 1. Como implementar um CRUD para gerenciar permissões?  
 2. Criar middlewares para proteção de rotas?  
    ```php
@@ -166,7 +165,7 @@ public function classes() {
 
 --- 
 
-** Observação Final:**  
+Observação Final: 
 *"Adicionei comentários detalhados em todos os arquivos modificados para facilitar a manutenção futura!"*  
 
 *(Assinatura: Aluna Yasmim Russi)* 
